@@ -49,5 +49,4 @@ am sw
 ```
 
 # Buy Me a Coffee
-<img width="521" alt="image" src="https://user-images.githubusercontent.com/1551382/134803582-48125041-d5f1-4ab0-9a38-76d6ef5604c6.png">
-
+![微信支付](./screenshot/sponsor.PNG)!
