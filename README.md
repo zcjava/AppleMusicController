@@ -47,3 +47,6 @@ am ap
 ```
 am sw
 ```
+
+# Buy Me a Coffee
+![微信支付](./screenshot/sponsor.PNG)!
