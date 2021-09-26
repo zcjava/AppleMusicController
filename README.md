@@ -8,6 +8,16 @@ An Alfred workflow for quickly  use music in  Apple Music
 # Usage
 AppleMusicAlfred  includes a number of keyword toggle function in your Music.app library. For example:
 
+## Open Music
+```
+am op
+```
+
+## Close Music
+```
+am cl
+```
+
 ## Play or Pause
 ```
 am pp
@@ -49,4 +59,4 @@ am sw
 ```
 
 # Buy Me a Coffee
-![微信支付](./screenshot/sponsor.png)!
+![微信支付](./screenshot/sponsor.png)
