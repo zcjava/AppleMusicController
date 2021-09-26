@@ -49,4 +49,4 @@ am sw
 ```
 
 # Buy Me a Coffee
-![微信支付](./screenshot/sponsor.png)!
+![微信支付](./screenshot/sponsor.png =100x100)!
